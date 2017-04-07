@@ -1,0 +1,29 @@
+{
+  "name": "laser-disco",
+  "version": "0.0.1",
+  "description": "A WebGL demo with disco tiles and AI robots annihilating and dodging each other with lasers.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ts-node node_modules/.bin/tape test/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdiaz5513/laser-disco.git"
+  },
+  "keywords": [
+    "wegbgl",
+    "disco",
+    "laser",
+    "robot",
+    "ai",
+    "tiles",
+    "game",
+    "shader"
+  ],
+  "author": "Julian Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdiaz5513/laser-disco/issues"
+  },
+  "homepage": "https://github.com/jdiaz5513/laser-disco#readme"
+}
