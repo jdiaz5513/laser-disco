@@ -25,5 +25,18 @@
   "bugs": {
     "url": "https://github.com/jdiaz5513/laser-disco/issues"
   },
-  "homepage": "https://github.com/jdiaz5513/laser-disco#readme"
+  "homepage": "https://github.com/jdiaz5513/laser-disco#readme",
+  "devDependencies": {
+    "@types/debug": "0.0.29",
+    "awesome-typescript-loader": "^3.1.2",
+    "tslint": "^5.0.0",
+    "tslint-eslint-rules": "^4.0.0",
+    "typescript": "^2.2.2",
+    "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "@types/three": "^0.84.3",
+    "debug": "^2.6.3",
+    "three": "^0.84.0"
+  }
 }
